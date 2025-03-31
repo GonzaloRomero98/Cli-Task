@@ -14,12 +14,12 @@ Esta app permite agregar, eliminar y mostrar tareas de una lista, a traves de lo
 - Tener pequeños conocimientos en consola
 
 ## Uso
--Para poder ejecutar el programa, debemos abrir la termina e ir a la ruta del archivo donde se guardo.
--Luego de entrar a la ruta, ingresar el comando de **npm run task-cli **
--antes de dar enter se debe ingresar lo que se debe hacer: 
-  -Si desea agreagar una tarea :  **npm run task-cli add "la tarea que desea guardar"**
-  -Si desea eliminar una tarea : **npm run task-cli delete "id"**
-  -si desea Listar todas las tareas: **npm run task-cli list¨**
-  -Si desea listar por las no iniciadas: *npm run task-cli todo
-  -Si desea listar por las en proceso: **npm run task-cli list in-progress**
-  -Si desea listar por las terminadas: **npm run task-cli list done**
+1.-Para poder ejecutar el programa, debemos abrir la termina e ir a la ruta del archivo donde se guardo.
+2-Luego de entrar a la ruta, ingresar el comando de **npm run task-cli **
+3-Antes de dar enter se debe ingresar lo que se debe hacer: 
+  3.1) Si desea agreagar una tarea :  **npm run task-cli add "la tarea que desea guardar"**
+  3.2) Si desea eliminar una tarea : **npm run task-cli delete "id"**
+  3.3) si desea Listar todas las tareas: **npm run task-cli list¨**
+  3.4) Si desea listar por las no iniciadas: *npm run task-cli todo
+  3.5) Si desea listar por las en proceso: **npm run task-cli list in-progress**
+  3.6) Si desea listar por las terminadas: **npm run task-cli list done**
