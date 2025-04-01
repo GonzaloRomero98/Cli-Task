@@ -14,5 +14,6 @@ Esta app permite agregar, eliminar y mostrar tareas de una lista, a traves de lo
 - Tener pequeños conocimientos en consola
 
 ## Uso
+- Primero se debe ir a la ubicacion en la consolola para luego poder ingresar los siguiente comandos: 
 ![imagen](https://github.com/user-attachments/assets/8d1266ae-78e6-4c60-9bb3-247bfd185afa)
 
