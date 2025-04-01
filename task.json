@@ -1,41 +1,23 @@
 [
   {
-    "id": 3,
-    "task": "Hola mundaasdasddd",
+    "id": 1,
+    "task": "Hacer un commit",
     "status": "not done",
-    "createAt": "Sun Mar 30 2025",
-    "updatedAt": "Sun Mar 30 2025"
-  },
-  {
-    "id": 4,
-    "task": "hacer menu23",
-    "status": "not done",
-    "createAt": "Sun Mar 30 2025"
-  },
-  {
-    "id": 5,
-    "task": "hacer menu23",
-    "status": "not done",
-    "createAt": "Sun Mar 30 2025"
-  },
-  {
-    "id": 6,
-    "task": "hacer menu23",
-    "status": "not done",
-    "createAt": "Sun Mar 30 2025"
-  },
-  {
-    "id": 7,
-    "task": "hacer menu23",
-    "status": "not done",
-    "createAt": "Sun Mar 30 2025",
+    "createAt": "Mon Mar 31 2025",
     "updatedAt": null
   },
   {
-    "id": 8,
-    "task": "hacer menu23www",
+    "id": 2,
+    "task": "Terminar de hacer los test",
+    "status": "done",
+    "createAt": "Mon Mar 31 2025",
+    "updatedAt": "Mon Mar 31 2025"
+  },
+  {
+    "id": 3,
+    "task": "terminar de comentar el codigo",
     "status": "not done",
-    "createAt": "Sun Mar 30 2025",
+    "createAt": "Mon Mar 31 2025",
     "updatedAt": null
   }
 ]
